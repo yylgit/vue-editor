@@ -1,0 +1,8 @@
+{
+  "name": "vue-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yylgit/vue-editor.git",
+  "author": "杨益良 <yangyiliang@meituan.com>",
+  "license": "MIT"
+}
